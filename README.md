@@ -1,12 +1,7 @@
 <div>
-    <h3>E ai vocês estão bem? eu sou Rafael Bortoti Paula, sejam muito bem vindos ao meu perfil 👋</h3>
-    <p>Um pouco sobre minha pessoa!</p>
-    <ol type="I">
-        <li>Cursando Analise e desenvolvimento de Sistemas.</li>
-        <li>Trabalho na 4Selet em Goiânia.</li>
-        <li>Tenho 28 anos.</li>
-        <li>Estou pensando em fazer Ciência da Computação depois de terminar ADS.</li>
-    </ol>
+    <h3>Sejam muito bem-vindos ao meu perfil!</h3>
+    <p>👋 Olá! Eu sou Rafael Bortoti Paula, um estudante de Análise e Desenvolvimento de Sistemas com experiência em desenvolvimento web. Estou sempre buscando aprender e me desenvolver na área da tecnologia. Após concluir meu curso de ADS, pretendo continuar meus estudos em Ciência da Computação para aprofundar meus conhecimentos e expandir minhas oportunidades profissionais.!</p>
+    <p>📫 Sinta-se à vontade para explorar meus projetos e entrar em contato para trocar ideias ou colaborar!</p>
 </div>  
 
 <div style="margin-bottom: 15px;">
